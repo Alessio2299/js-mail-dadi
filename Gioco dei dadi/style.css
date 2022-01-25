@@ -1,0 +1,33 @@
+.container-box{
+  margin: auto;
+  width: 75%;
+}
+.box{
+  box-shadow: 5px 5px 30px rgba(0, 0, 0, 0.466);
+}
+.box-dice{
+  width: 200px;
+  height: 200px;
+  background-size: cover;
+}
+.hidden{
+  display: none;
+}
+.dice1{
+  background-image: url(./img/Dice1.png);
+}
+.dice2{
+  background-image: url(./img/Dice2.png);
+}
+.dice3{
+  background-image: url(./img/Dice3.png);
+}
+.dice4{
+  background-image: url(./img/Dice4.png);
+}
+.dice5{
+  background-image: url(./img/Dice5.png);
+}
+.dice6{
+  background-image: url(./img/Dice6.png);
+}
